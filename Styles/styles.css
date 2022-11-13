@@ -1,0 +1,159 @@
+
+
+#logo {
+    float: left;
+    margin-top: -15%;
+    margin-left: 7.5%;
+    width: 20%;
+    height: 20%;
+}
+
+#main_image {
+    margin-top: -25%;
+    margin-left: 40%;
+    height: 500px;
+    width: 800px;
+}
+
+.rotation_band {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.image {
+    height: 75px;
+    width: 75px;
+}
+
+#home_paragraph {
+    width: 35%;
+    margin-left: 2%;
+}
+
+
+
+
+
+
+
+
+
+#paragraph_header {
+    margin-left: 2%;
+    margin-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: blanchedalmond;
+}
+#about_us {
+    padding-left: 20px;
+    margin-top: 5%;
+    padding: 20px;
+}
+#about_us_header {
+    margin-left: 30%;
+    font-family: 'Montserrat', sans-serif;
+}
+#about_us_content {
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar_components{
+    margin-left: 67.5%;
+}
+body{
+        background-color: aliceblue;
+}
+#home{
+    /* padding: 20px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.card{
+   margin-bottom: 5%;
+}
+
+#contact_us{
+    margin-top: 5%;
+    padding: 20px;
+}
+
+.card_1{
+    margin-top:4%;
+    margin-left: 25%; 
+}
+
+.card_2{
+    margin-top:-28%;
+    margin-left: 55%;
+}
+
+#contact_us_header{
+    font-family: 'Montserrat', sans-serif;
+    align-content: center;
+    margin-top: 2%;
+    margin-left: 30%;
+}
+
+.display_picture{
+    width: 50%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    height: 50px;
+    text-align: center;
+    color: cornsilk;
+    padding-top:1%
+}
+
+.logo:hover
+{
+    transform: scale(1.3);
+    transition: 0.3s ease;
+}
+
+.scale:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+
+.para{
+    padding-left: 50px ;
+}
+
+@media screen and (max-width: 667) {
+    .Box {
+        width: 100%;
+    }
+
+}
+.image {
+    height: 75px;
+    width: 75px;
+
+}

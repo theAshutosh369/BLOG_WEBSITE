@@ -1,0 +1,116 @@
+form{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px ;
+    width: 25%;
+    background-color: aliceblue;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.submit_button {
+    margin-top: 2%;
+}
+#fcf-form {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+}
+.text_field {
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    font-family: 'Open Sans', sans-serif;
+}
+.form-group {
+    margin-top: 2%;
+}
+
+.fcf-form-group {
+    margin: 20px;
+}
+
+.form-control {
+    margin-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3{
+    text-align: center;
+    margin: 30px ;
+}
+#fcf-form-class {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+.scale:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+#content_input {
+    height: 500px;
+}
+.footer {
+    background-color: darkslateblue;
+    height: 50px;
+    text-align: center;
+    color: cornsilk;
+    padding-top: 1%;
+    margin-top: 5%;
+}
+
+.navbar_components {
+    margin-left: 67.5%;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: blanchedalmond;
+}
+
+.image {
+    height: 75px;
+    width: 75px;
+}
+
+
+
+.button{
+    text-decoration: none;
+}
+
+a{
+    color: blue;
+}
+@media screen and (max-width: 667) {
+    .Box {
+        width: 100%;
+    }
+
+}
+body {
+    background-color: aliceblue;
+}
